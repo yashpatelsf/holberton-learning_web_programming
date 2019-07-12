@@ -1,1 +1,3 @@
-console.log("Betty Holberton")
+<!DOCTYPE javascript>
+
+<console.log("Betty Holberton")
